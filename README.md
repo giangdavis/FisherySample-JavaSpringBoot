@@ -19,7 +19,7 @@ It provides RESTful APIs for interacting with entities like permits and fishing 
 - **Database**: PostgreSQL
 - **Build Tool**: Maven
 - **Persistence**: Spring Data JPA
-- 
+  
 ## How to Run the Project
 Clone the repository,
 
